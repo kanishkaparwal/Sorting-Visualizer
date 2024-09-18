@@ -1,6 +1,6 @@
 ## Try ;) https://kanishkaparwal.github.io/Sorting-Visualizer/
 
-## What the Sorting algorithms inside this application
+##   Sorting algorithms inside this application->
 
 This application supports the following sorting algorithms:
 
